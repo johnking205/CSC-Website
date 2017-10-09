@@ -1,0 +1,1 @@
+This is a mockup for the CSC website
